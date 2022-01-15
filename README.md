@@ -1,21 +1,21 @@
-# Zomato-Restaurant-data-analysis
-The project is all about the analysis of Zomato Restaurant 
+## Zomato-Restaurant-data-analysis
+### The project is all about the analysis of Zomato Restaurant 
 
-In this project am able to do the following
+#### In this project am able to do the following
 
-1. find the percentage of missing value in the dataset to deal with missing value
+#### 1. find the percentage of missing value in the dataset to deal with missing value
 
-2. calculate the average rating column and try to find out what distribution 
+#### 2. calculate the average rating column and try to find out what distribution 
 
-3.Get distribution of Rating column and try to find what distribution 
+#### 3.Get distribution of Rating column and try to find what distribution 
 
-4. To check how many of the restaurant do not accept online orders
+#### 4. To check how many of the restaurant do not accept online orders
 
-5. Rating between restaurant that provide table and do not provide table 
+#### 5. Rating between restaurant that provide table and do not provide table 
 
-6.Indepth analysis of types of restaurant we have highest voted restaurant
+#### 6.Indepth analysis of types of restaurant we have highest voted restaurant
 
-7.Total restuarant at different location of Banglore
+#### 7.Total restuarant at different location of Banglore
  ## Some of the library used are listed below
  #### pandas for data manipulation
  #### matplotlib for visual graphics
