@@ -16,7 +16,7 @@ In this project am able to do the following
 6.Indepth analysis of types of restaurant we have highest voted restaurant
 
 7.Total restuarant at different location of Banglore
- Some of the library used are listed below
- pandas for data manipulation
- matplotlib for visual graphics
- numpy of statistical analysis
+ ## Some of the library used are listed below
+ . pandas for data manipulation
+ . matplotlib for visual graphics
+ . numpy of statistical analysis
