@@ -17,6 +17,6 @@ In this project am able to do the following
 
 7.Total restuarant at different location of Banglore
  ## Some of the library used are listed below
- . pandas for data manipulation
- . matplotlib for visual graphics
- . numpy of statistical analysis
+ #### pandas for data manipulation
+ #### matplotlib for visual graphics
+ #### numpy of statistical analysis
