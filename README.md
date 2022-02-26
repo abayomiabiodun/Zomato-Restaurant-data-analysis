@@ -1,9 +1,9 @@
 ## Zomato-Restaurant-data-analysis
-### The project is all about the analysis of Zomato Restaurant 
+ The project is all about the analysis of Zomato Restaurant 
 
-#### In this project am able to do the following
+ In this project am able to do the following
 
-#### 1. find the percentage of missing value in the dataset to deal with missing value
+ 1. find the percentage of missing value in the dataset to deal with missing value
 
 #### 2. calculate the average rating column and try to find out what distribution 
 
