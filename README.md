@@ -5,9 +5,9 @@
 
  1. find the percentage of missing value in the dataset to deal with missing value
 
-#### 2. calculate the average rating column and try to find out what distribution 
+2. calculate the average rating column and try to find out what distribution 
 
-#### 3.Get distribution of Rating column and try to find what distribution 
+3.Get distribution of Rating column and try to find what distribution 
 
 #### 4. To check how many of the restaurant do not accept online orders
 
