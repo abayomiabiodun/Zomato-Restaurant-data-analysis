@@ -9,9 +9,9 @@
 
 3.Get distribution of Rating column and try to find what distribution 
 
-#### 4. To check how many of the restaurant do not accept online orders
+4. To check how many of the restaurant do not accept online orders
 
-#### 5. Rating between restaurant that provide table and do not provide table 
+5. Rating between restaurant that provide table and do not provide table 
 
 #### 6.Indepth analysis of types of restaurant we have highest voted restaurant
 
