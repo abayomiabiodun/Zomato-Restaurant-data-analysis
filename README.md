@@ -13,9 +13,9 @@
 
 5. Rating between restaurant that provide table and do not provide table 
 
-#### 6.Indepth analysis of types of restaurant we have highest voted restaurant
+6.Indepth analysis of types of restaurant we have highest voted restaurant
 
-#### 7.Total restuarant at different location of Banglore
+7.Total restuarant at different location of Banglore
  ### some of the library used are listed below
  #### pandas for data manipulation
  #### matplotlib for visual graphics
