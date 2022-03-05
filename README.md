@@ -16,7 +16,10 @@
 6.Indepth analysis of types of restaurant we have highest voted restaurant
 
 7.Total restuarant at different location of Banglore
-   some of the library used are listed below
-   pandas for data manipulation
+   
+  some of the library used are listed below
+
+ 
+Pandas for data manipulation
    matplotlib for visual graphics
    numpy of statistical analysis
